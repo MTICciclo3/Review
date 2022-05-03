@@ -19,7 +19,7 @@ ul {
 
 .button:hover {
     cursor: pointer;
-    box-shadow: 5px 5px green;
+    box-shadow: 5px 5px rgb(233, 236, 233);
     transform: scale(1.1);
 }
 
